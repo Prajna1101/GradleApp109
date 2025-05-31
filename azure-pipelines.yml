@@ -13,7 +13,7 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
-- script: gradle bulid
+- script: gradle build
   displayName: 'build with gradle'
 
 - script: gradle run
